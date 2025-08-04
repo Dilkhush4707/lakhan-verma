@@ -133,7 +133,7 @@ export default function Home() {
           Looking for a tailored solution?
         </h3>
         <p className="text-gray-700 mb-6">
-          Request a <strong>FREE Quote</strong> today and let's build something big together. 🎯
+          Request a <strong>FREE Quote</strong> today and let&aposs build something big together. 🎯
         </p>
         <Link
           href="/contact"

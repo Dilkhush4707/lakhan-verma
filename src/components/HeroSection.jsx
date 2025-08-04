@@ -1,3 +1,4 @@
+"use client";
 import React from "react";
 import { FaCircleNotch } from "react-icons/fa";
 import DotGrid from "@/components/bg/DotGrid";

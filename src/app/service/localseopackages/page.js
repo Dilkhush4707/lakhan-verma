@@ -144,7 +144,7 @@ export default function Home() {
         <p className="text-gray-600 mb-10 max-w-3xl">
           Leave the local SEO grind to us. We optimize your business to stand
           out in local search. You keep doing what you do best — running your
-          biz. We'll bring the customers. 😎📈
+          biz. We&aposll bring the customers. 😎📈
         </p>
         <div className="grid gap-6 md:grid-cols-3 text-sm text-gray-700">
           {features.map((feature, i) => (
